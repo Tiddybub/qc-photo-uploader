@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+
+# Real marks files hold customer names
+marks*.txt
+
+.DS_Store
+Thumbs.db
+desktop.ini

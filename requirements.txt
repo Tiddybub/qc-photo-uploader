@@ -1,0 +1,3 @@
+# Optional: only needed for --erase-card (sends card photos to the Recycle Bin / system trash).
+# Everything else uses the Python standard library.
+send2trash>=1.8
